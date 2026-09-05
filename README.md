@@ -3,7 +3,11 @@
 
 ## Team Members
 - Josaiah Rhodes
-- Daren Diaz
+### Daren Diaz
+
+**Role:** Backend and DevOps Developer
+
+Daren is responsible for contributing to backend development, infrastructure, DevOps, security, and database design for the Ticket Defense project.
 - JT Russell
 
 
